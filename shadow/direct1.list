@@ -1,3 +1,5 @@
+### 用户自定义直连配置
+
 DOMAIN-KEYWORD,lowendaff
 DOMAIN-KEYWORD,hostloc
 DOMAIN-KEYWORD,zhujiwiki
@@ -360,3 +362,11 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+
+IP-CIDR,192.168.0.0/16
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,127.0.0.0/8
+
+
+
