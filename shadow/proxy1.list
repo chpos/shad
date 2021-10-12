@@ -1,6 +1,15 @@
 ### 用户自定义代理配置
 
 
+# > Fast
+DOMAIN-SUFFIX,fast.com
+
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
+
+
 ### 默认配置文件代理
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,line.naver.jp
