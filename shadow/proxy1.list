@@ -1,6 +1,8 @@
 ### 用户自定义代理配置
 
 
+DOMAIN-SUFFIX,lllllk.com
+
 # > Fast
 DOMAIN-SUFFIX,fast.com
 
