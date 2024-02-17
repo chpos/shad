@@ -1,5 +1,5 @@
-# Google
 
+DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
@@ -209,8 +209,6 @@ DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,fflick.com
 DOMAIN-SUFFIX,financeleadsonline.com
-DOMAIN-SUFFIX,firebase.com
-DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flutter.dev
@@ -231,9 +229,7 @@ DOMAIN-SUFFIX,gerritcodereview.com
 DOMAIN-SUFFIX,get.app
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
-DOMAIN-SUFFIX,get.new
 DOMAIN-SUFFIX,get.page
-DOMAIN-SUFFIX,get.rsvp
 DOMAIN-SUFFIX,getbumptop.com
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org
@@ -259,7 +255,6 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googel.com
 DOMAIN-SUFFIX,googil.com
 DOMAIN-SUFFIX,googl.com
-DOMAIN-SUFFIX,google-access.net
 DOMAIN-SUFFIX,google-analytics-cn.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-syndication.com
@@ -290,7 +285,6 @@ DOMAIN-SUFFIX,google.ci
 DOMAIN-SUFFIX,google.cl
 DOMAIN-SUFFIX,google.cm
 DOMAIN-SUFFIX,google.cn
-DOMAIN-SUFFIX,google.co
 DOMAIN-SUFFIX,google.co.ao
 DOMAIN-SUFFIX,google.co.bw
 DOMAIN-SUFFIX,google.co.ck
@@ -510,7 +504,6 @@ DOMAIN-SUFFIX,googletraveladservices-cn.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,googleventures.com
-DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,googlr.com
 DOMAIN-SUFFIX,goolge.com
 DOMAIN-SUFFIX,gooogle.com
@@ -531,9 +524,7 @@ DOMAIN-SUFFIX,gvt6.com
 DOMAIN-SUFFIX,gvt7.com
 DOMAIN-SUFFIX,gvt9.com
 DOMAIN-SUFFIX,gwtproject.org
-DOMAIN-SUFFIX,haplorrhini.com
 DOMAIN-SUFFIX,hdrplusdata.org
-DOMAIN-SUFFIX,hey.boo
 DOMAIN-SUFFIX,hey.gle
 DOMAIN-SUFFIX,hindiweb.com
 DOMAIN-SUFFIX,howtogetmo.co.uk
@@ -548,8 +539,6 @@ DOMAIN-SUFFIX,j2objc.org
 DOMAIN-SUFFIX,jibemobile.com
 DOMAIN-SUFFIX,kaggle.com
 DOMAIN-SUFFIX,kaggle.io
-DOMAIN-SUFFIX,kaggle.net
-DOMAIN-SUFFIX,kaggleusercontent.com
 DOMAIN-SUFFIX,keyhole.com
 DOMAIN-SUFFIX,keytransparency.com
 DOMAIN-SUFFIX,keytransparency.foo
@@ -569,7 +558,6 @@ DOMAIN-SUFFIX,moodstocks.com
 DOMAIN-SUFFIX,near.by
 DOMAIN-SUFFIX,nest.com
 DOMAIN-SUFFIX,neverware.com
-DOMAIN-SUFFIX,new.day
 DOMAIN-SUFFIX,nomulus.foo
 DOMAIN-SUFFIX,oasisfeng.com
 DOMAIN-SUFFIX,oauthz.com
@@ -661,7 +649,6 @@ DOMAIN-SUFFIX,stxmosquitoproject.net
 DOMAIN-SUFFIX,stxmosquitoproject.org
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,teachparentstech.org
-DOMAIN-SUFFIX,telephony.goog
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,thecleversense.com
@@ -736,77 +723,3 @@ IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,2620:120:e000::/40,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
-
-# GoogleDrive
-
-DOMAIN,www.googleapis.com
-DOMAIN-SUFFIX,docs.google.com
-DOMAIN-SUFFIX,drive.google.com
-DOMAIN-SUFFIX,googledrive.com
-DOMAIN-SUFFIX,googleusercontent.com
-USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
-USER-AGENT,*com.google.Drive*
-USER-AGENT,Google.Drive*
-
-
-# youtube
-
-DOMAIN,music.youtube.com
-USER-AGENT,*YouTubeMusic*
-USER-AGENT,*com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
-USER-AGENT,com.google.ios.youtubemusic*
-
-
-#  GoogleSearch
-
-DOMAIN-KEYWORD,www.google.
-
-
-# GoogleVoice
-
-DOMAIN,lens.l.google.com
-
-
-# Chromecast
-
-DOMAIN-KEYWORD,pa.google
-
-
-#  GoogleFCM
-
-DOMAIN,alt1-mtalk.google.com
-DOMAIN,alt2-mtalk.google.com
-DOMAIN,alt3-mtalk.google.com
-DOMAIN,alt4-mtalk.google.com
-DOMAIN,alt5-mtalk.google.com
-DOMAIN,alt6-mtalk.google.com
-DOMAIN,alt7-mtalk.google.com
-DOMAIN,alt8-mtalk.google.com
-DOMAIN,mtalk.google.com
-IP-CIDR,108.177.125.188/32,no-resolve
-IP-CIDR,142.250.10.188/32,no-resolve
-IP-CIDR,142.250.31.188/32,no-resolve
-IP-CIDR,142.250.4.188/32,no-resolve
-IP-CIDR,142.250.96.188/32,no-resolve
-IP-CIDR,172.217.194.188/32,no-resolve
-IP-CIDR,172.217.218.188/32,no-resolve
-IP-CIDR,172.217.219.188/32,no-resolve
-IP-CIDR,172.253.122.188/32,no-resolve
-IP-CIDR,172.253.63.188/32,no-resolve
-IP-CIDR,173.194.175.188/32,no-resolve
-IP-CIDR,173.194.218.188/32,no-resolve
-IP-CIDR,209.85.233.188/32,no-resolve
-IP-CIDR,64.233.177.188/32,no-resolve
-IP-CIDR,64.233.186.188/32,no-resolve
-IP-CIDR,64.233.187.188/32,no-resolve
-IP-CIDR,64.233.188.188/32,no-resolve
-IP-CIDR,64.233.189.188/32,no-resolve
-IP-CIDR,74.125.127.188/32,no-resolve
-IP-CIDR,74.125.137.188/32,no-resolve
-IP-CIDR,74.125.203.188/32,no-resolve
-IP-CIDR,74.125.204.188/32,no-resolve
-IP-CIDR,74.125.206.188/32,no-resolve
-IP-CIDR,74.125.23.188/32,no-resolve
-IP-CIDR,74.125.24.188/32,no-resolve
-IP-CIDR,74.125.28.188/32,no-resolve
